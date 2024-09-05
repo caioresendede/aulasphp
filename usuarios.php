@@ -31,16 +31,18 @@
 
 
     </style>
-
 </head>
 <body>
     <header>
         <nav>
             <ul>
                 <p>logo</p>
-                <li><a href="">home</a></li>
-                <li><a href="">sobre</a></li>
-                <li><a href="">contato</a></li>
+                <li><a href="index.php">home</a></li>
+                <li><a href="sobre.php">sobre</a></li>
+                <li><a href="login.php">login</a></li>
+                <li><a href="usuarios.php">consulta</a></li>
+                <li><a href="cadastro.hmtl">cadastro</a></li>
+
             </ul>
         </nav>
     </header>
